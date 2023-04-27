@@ -1,0 +1,26 @@
+Type_ID,Type_name,Bed_num,Room_price,If_wifi,If_balcony
+2501,Single,1,50,N,N
+2502,Double,2,75,N,N
+2503,Triple,3,100,N,N
+2504,Quadruple,4,125,Y,Y
+2505,Studio,1,150,Y,Y
+2506,VIP lounge,5,200,Y,Y
+2507,Hollywood Twin,2,250,Y,N
+2508,Queen Room,2,300,N,Y
+2509,Twin Room,2,275,Y,N
+2510,King Room,1,315,N,N
+2511,Double Double,2,150,Y,Y
+2512,Accessible,1,100,N,Y
+2513,Suite,2,300,Y,N
+2514,Mini Suite,1,250,Y,Y
+2515,Apartment Style,1,300,Y,Y
+2516,Standard ,1,200,Y,N
+2517,Connecting ,2,250,N,N
+2518,Presidential Suite,3,400,Y,Y
+2519,Deluxe ,2,275,N,N
+2520,Super Deluxe,4,315,Y,Y
+2521,Joint Suite,2,300,N,N
+2522,Cabana ,4,350,Y,Y
+2523,Villas,6,450,Y,Y
+2524,Executive ,2,500,Y,Y
+2525,International,5,600,Y,Y
