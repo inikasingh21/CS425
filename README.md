@@ -8,6 +8,7 @@ Delete (CRUD) operations, and test several use cases identified for the
 database application.
 
 3 Database Requirements
+
 3.1 Users
 Clearly identify the type of users for the database application selected for this project and
 describe the role of each user.
